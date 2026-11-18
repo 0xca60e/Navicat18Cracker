@@ -1,6 +1,6 @@
 # Navicat18Cracker
 
-`Navicat17Cracker` is a patch and keygen tool that you can active Navicat version 18 offline.
+`Navicat18Cracker` is a patch and keygen tool that you can active Navicat version 18 offline.
 
 ## How does it work?
 1. Add `127.0.0.1 activate.navicat.com` record to `hosts` file.
